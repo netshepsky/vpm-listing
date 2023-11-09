@@ -11,5 +11,8 @@
         "url":"https://github.com/netshepsky/vpm-listing",
         "text":"View on GitHub"
     },
-    "bannerUrl":"banner.png"
+    "bannerUrl":"banner.png",
+    "githubRepos":[
+        "netshepsky/VRChat-Build-Size-Viewer"
+    ]
 }
