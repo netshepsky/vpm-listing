@@ -1,11 +1,10 @@
 {
-    "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
+    "name":"voxel's VPM listing",
+    "id":"net.voxint.vpm",
     "url":"https://vrchat-community.github.io/template-package-listing/index.json",
     "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
+        "name":"voxel",
+        "url":"https://voxint.net"
     },
     "description":"Example listing of VRChat packages",
     "infoLink":{
