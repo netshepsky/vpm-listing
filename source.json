@@ -14,5 +14,7 @@
     "bannerUrl":"banner.png",
     "githubRepos":[
         "netshepsky/VRChat-Build-Size-Viewer"
+    ],
+    "packages":[
     ]
 }
