@@ -1,10 +1,10 @@
 {
-    "name":"voxel's VPM listing",
+    "name":"",
     "id":"net.voxint.vpm",
     "url":"https://vpm.voxint.net/index.json",
-    "description": "",
+    "description": "voxel's VRChat Package Manager registry",
     "author":{
-        "name":"voxel",
+        "name":"@netshepsky",
         "url":"https://voxint.net"
     },
     "infoLink":{
