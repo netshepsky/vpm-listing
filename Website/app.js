@@ -152,6 +152,7 @@ const setTheme = () => {
   const packageInfoDependencies = document.getElementById('packageInfoDependencies');
   const packageInfoKeywords = document.getElementById('packageInfoKeywords');
   const packageInfoLicense = document.getElementById('packageInfoLicense');
+  const packageListingUrl = document.getElementById('packageInfoVccUrlField');
 
   const rowAddToVccButtons = document.querySelectorAll('.rowAddToVccButton');
   rowAddToVccButtons.forEach((button) => {
@@ -174,6 +175,7 @@ const setTheme = () => {
       packageInfoDescription.textContent = packageInfo.description;
       packageInfoAuthor.textContent = packageInfo.author.name;
       packageInfoAuthor.href = packageInfo.author.url;
+      packageListingUrl.value = packageInfo.author.url;
 
       if ((packageInfo.keywords?.length ?? 0) === 0) {
         packageInfoKeywords.parentElement.classList.add('hidden');
