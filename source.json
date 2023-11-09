@@ -2,6 +2,7 @@
     "name":"voxel's VPM listing",
     "id":"net.voxint.vpm",
     "url":"https://vpm.voxint.net/index.json",
+    "description": "",
     "author":{
         "name":"voxel",
         "url":"https://voxint.net"
